@@ -51,6 +51,15 @@
     font-family:'El Messiri';
     font-style: italic;
     }
+
+    h3 a:link {
+      color:black;
+      text-decoration: none;
+    }
+  
+    h3 a:hover {
+      color: #426236;
+    }
   /* Nav bar buttons  */
     .topnav {
       width: 100;
